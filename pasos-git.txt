@@ -1,0 +1,5 @@
+Todos estos pasos es cuando hay un repro ya creado y solo subes cambios
+1. git init
+2. git add .
+3. git commit -m "Primer commit"
+4. git push
