@@ -1,5 +1,14 @@
-Todos estos pasos es cuando hay un repro ya creado y solo subes cambios
+Estos pasos son para hacerlos por primera vez
 1. git init
 2. git add .
 3. git commit -m "Primer commit"
-4. git push
+
+Estos siguientes pasos te los da github cuando creas el repo
+4. git remote add origin git@github.com:danielavilladiego/prueba-repo.git
+5. git branch -M main
+6. git push -u origin main
+
+Acá los comandos para subir cambios y actualizar el repo
+1. git add .
+2. git commit -m "Primer commit"
+3. git push
